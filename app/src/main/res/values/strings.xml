@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplicationTwitter</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">qCf9YHHKwl4dILAPxNBmOXsh0</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Qr9YlJq9QbJOnFHMKRdaEm5dLDoyJmkHU72lVLDXHJUXAG1qkB</string>
+</resources>
